@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046677830637",
+    "project_id": "lojavini-cb492",
+    "storage_bucket": "lojavini-cb492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046677830637:android:c3a85532cfb683aba145e4",
+        "android_client_info": {
+          "package_name": "br.com.dasilva.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046677830637-3j20qrlsrr4qb2me7lhqigo70h0q77ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrQaGzr7nRdzjx-nKS9YMiED9ULJwid8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046677830637-3j20qrlsrr4qb2me7lhqigo70h0q77ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
