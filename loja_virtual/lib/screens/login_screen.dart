@@ -72,7 +72,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       );
                       else{
                         model.recoverPass(_emailController.text);
-_scaffoldKey.currentState.showSnackBar(SnackBar(
+                        _scaffoldKey.currentState.showSnackBar(SnackBar(
                           content: Text("Confira seu e-mail"),
                           backgroundColor: Theme.of(context).primaryColor,
                           duration: Duration(seconds: 2),
